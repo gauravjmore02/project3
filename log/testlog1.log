@@ -1,0 +1,108 @@
+2023-03-04 10:45:56,157 [main] INFO Opencart Automation Framework - Execution started
+2023-03-04 10:45:57,526 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://raw.githubusercontent.com:443: Network is unreachable: connect
+2023-03-04 10:45:57,531 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://raw.githubusercontent.com:443
+2023-03-04 10:45:57,536 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://raw.githubusercontent.com:443: Network is unreachable: connect
+2023-03-04 10:45:57,541 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://raw.githubusercontent.com:443
+2023-03-04 10:45:57,547 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://raw.githubusercontent.com:443: Network is unreachable: connect
+2023-03-04 10:45:57,549 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://raw.githubusercontent.com:443
+2023-03-04 10:45:58,461 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:45:58,462 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:45:58,465 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:45:58,467 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:45:58,469 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:45:58,469 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:45:58,474 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:45:58,474 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:45:58,476 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:45:58,477 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:45:58,479 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:45:58,479 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:45:59,743 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://npm.taobao.org:80: Network is unreachable: connect
+2023-03-04 10:45:59,745 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://npm.taobao.org:80
+2023-03-04 10:45:59,749 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://npm.taobao.org:80: Network is unreachable: connect
+2023-03-04 10:45:59,751 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://npm.taobao.org:80
+2023-03-04 10:45:59,758 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://npm.taobao.org:80: Network is unreachable: connect
+2023-03-04 10:45:59,760 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://npm.taobao.org:80
+2023-03-04 10:46:02,750 [main] INFO Opencart Automation Framework - Browser launches
+2023-03-04 10:46:05,554 [main] INFO Opencart Automation Framework - Url opened, maximize, waits, delete all cookies
+2023-03-04 10:46:05,586 [main] INFO Opencart Automation Framework - Test execution startedregidterPageTest
+2023-03-04 10:46:08,376 [main] INFO Opencart Automation Framework - Test execution failedregidterPageTest
+2023-03-04 10:46:08,598 [main] INFO Opencart Automation Framework - Browser closed
+2023-03-04 10:46:09,063 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:46:09,063 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:46:09,065 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:46:09,066 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:46:09,069 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:46:09,069 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:46:09,077 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:46:09,078 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:46:09,080 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:46:09,081 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:46:09,083 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:46:09,084 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:46:09,462 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://npm.taobao.org:80: Network is unreachable: connect
+2023-03-04 10:46:09,462 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://npm.taobao.org:80
+2023-03-04 10:46:09,463 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://npm.taobao.org:80: Network is unreachable: connect
+2023-03-04 10:46:09,464 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://npm.taobao.org:80
+2023-03-04 10:46:09,466 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://npm.taobao.org:80: Network is unreachable: connect
+2023-03-04 10:46:09,466 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://npm.taobao.org:80
+2023-03-04 10:46:10,385 [main] INFO Opencart Automation Framework - Browser launches
+2023-03-04 10:46:13,320 [main] INFO Opencart Automation Framework - Url opened, maximize, waits, delete all cookies
+2023-03-04 10:46:13,327 [main] INFO Opencart Automation Framework - Test execution startedvalidateLoggingIntoApplicationUsingValidCredentials
+2023-03-04 10:46:14,694 [main] INFO Opencart Automation Framework - Test execution completedvalidateLoggingIntoApplicationUsingValidCredentials
+2023-03-04 10:46:14,695 [main] INFO Opencart Automation Framework - Browser closed
+2023-03-04 10:46:15,087 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:46:15,088 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:46:15,090 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:46:15,091 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:46:15,095 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:46:15,096 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:46:15,103 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:46:15,104 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:46:15,106 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:46:15,106 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:46:15,108 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:46:15,109 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:46:15,522 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://npm.taobao.org:80: Network is unreachable: connect
+2023-03-04 10:46:15,524 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://npm.taobao.org:80
+2023-03-04 10:46:15,525 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://npm.taobao.org:80: Network is unreachable: connect
+2023-03-04 10:46:15,525 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://npm.taobao.org:80
+2023-03-04 10:46:15,527 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://npm.taobao.org:80: Network is unreachable: connect
+2023-03-04 10:46:15,527 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://npm.taobao.org:80
+2023-03-04 10:46:16,512 [main] INFO Opencart Automation Framework - Browser launches
+2023-03-04 10:46:19,228 [main] INFO Opencart Automation Framework - Url opened, maximize, waits, delete all cookies
+2023-03-04 10:46:19,231 [main] INFO Opencart Automation Framework - Test execution startedverifyBuyProductFunctionality
+2023-03-04 10:46:22,733 [main] INFO Opencart Automation Framework - Test execution completedverifyBuyProductFunctionality
+2023-03-04 10:46:22,735 [main] INFO Opencart Automation Framework - Browser closed
+2023-03-04 10:46:22,736 [main] INFO Opencart Automation Framework - Execution ended
+2023-03-04 10:46:22,737 [main] INFO Opencart Automation Framework - --------------------------------------------------------------
+2023-03-04 10:50:58,030 [main] INFO Opencart Automation Framework - Execution started
+2023-03-04 10:50:58,914 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://raw.githubusercontent.com:443: Network is unreachable: connect
+2023-03-04 10:50:58,915 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://raw.githubusercontent.com:443
+2023-03-04 10:50:58,917 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://raw.githubusercontent.com:443: Network is unreachable: connect
+2023-03-04 10:50:58,918 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://raw.githubusercontent.com:443
+2023-03-04 10:50:58,919 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://raw.githubusercontent.com:443: Network is unreachable: connect
+2023-03-04 10:50:58,920 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://raw.githubusercontent.com:443
+2023-03-04 10:50:59,212 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:50:59,214 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:50:59,219 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:50:59,220 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:50:59,224 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:50:59,227 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:50:59,240 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:50:59,241 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:50:59,245 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:50:59,246 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:50:59,249 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: Network is unreachable: connect
+2023-03-04 10:50:59,250 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2023-03-04 10:50:59,612 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://npm.taobao.org:80: Network is unreachable: connect
+2023-03-04 10:50:59,612 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://npm.taobao.org:80
+2023-03-04 10:50:59,614 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://npm.taobao.org:80: Network is unreachable: connect
+2023-03-04 10:50:59,615 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://npm.taobao.org:80
+2023-03-04 10:50:59,616 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://npm.taobao.org:80: Network is unreachable: connect
+2023-03-04 10:50:59,617 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://npm.taobao.org:80
+2023-03-04 10:51:01,154 [main] INFO Opencart Automation Framework - Browser launches
+2023-03-04 10:51:08,189 [main] INFO Opencart Automation Framework - Url opened, maximize, waits, delete all cookies
+2023-03-04 10:51:10,584 [main] INFO Opencart Automation Framework - Browser closed
+2023-03-04 10:51:10,591 [main] INFO Opencart Automation Framework - Execution ended
+2023-03-04 10:51:10,595 [main] INFO Opencart Automation Framework - --------------------------------------------------------------
